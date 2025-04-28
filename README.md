@@ -1,4 +1,4 @@
-# DATA-ANALYST-TASK-5
+# Task 5 - Exploratory Data Analysis (EDA)
 
 ## Overview
 This project performs an in-depth Exploratory Data Analysis (EDA) on the famous Titanic dataset. It focuses on extracting key insights, identifying trends, and visualizing relationships using Python libraries.
